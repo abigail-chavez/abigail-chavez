@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"><b>Hi! , I'm Abigail Chavez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**abigail-chavez/abigail-chavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <h1>😸 About Me:</h1>
+<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+I'm a Computer Technologies Engineer transitioning into Cybersecurity, combining a background in IT Risk Auditing at KPMG with enterprise cloud support and technical problem-solving at Microsoft.
 
-Here are some ideas to get you started:
+### <b> 🌱 What I've been doing: </b>
+- ✏️ I am currently enrolled in a cybersecurity training program
+- 📖 Learning: SIEM/SOAR, Vulnerability Management, Threat Hunting, Incident Response
+- 💼 I've been looking to transition into a full-time Security Operations / Cloud Security role
+- 🏆 Studying for upcoming security certifications and working on automation scripts using PowerShell and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <b> My Skills Include: </b>
