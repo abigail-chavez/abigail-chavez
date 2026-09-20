@@ -11,3 +11,8 @@ I'm a Computer Technologies Engineer transitioning into Cybersecurity, combining
 - 🏆 Studying for upcoming security certifications and working on automation scripts using PowerShell and Python.
 
 ### <b> My Skills Include: </b>
+* **Security & Networking:** DNS, DHCP, TCP/IP, VPNs, Firewalls, IAM Concepts, Wireshark, Fiddler, Cisco Packet Tracer
+* **Cloud & Infrastructure:** Azure, AWS, Linux, Windows
+* **Querying:** KQL (Kusto Query Language), SQL (MySQL, SQL Server), Mongo DB
+* **Data & Analytics:** Power BI, Microsoft Fabric
+* **Databases:** Relational (SQL Server, MySQL), Non-Relational (MongoDB)
